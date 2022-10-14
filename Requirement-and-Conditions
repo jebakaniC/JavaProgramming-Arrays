@@ -1,1 +1,16 @@
+Requirements:
+
+The total number of  PIN numbers entered should be a value greater than 0, else print "<no of PIN number> is an invalid number".
+The PIN number should be a four digit number, else print "<PIN number> is an invalid PIN number".
+
+Condition for the PIN number:
+
+The starting number should be an odd number
+The second number should be an even number
+The third number should be a prime number
+The last number should be a composite number
+Assume numbers only between 1 to 9.
+If all the numbers fail the above condition, then print "All these <no of PIN number> numbers are not a valid PIN number"
+If more than one PIN number passes the condition, then print the number
+
 
