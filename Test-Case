@@ -1,0 +1,43 @@
+Sample Input/Output 1:
+
+Enter the total number of PIN numbers
+4
+Enter the PIN numbers
+1234
+8975
+5656
+2589
+Valid PIN numbers are
+1234
+5656
+
+ 
+
+Sample Input/Output 2:
+
+Enter the total number of PIN numbers
+2
+Enter the PIN numbers
+2659
+1398
+All these 2 numbers are not a valid PIN number
+
+ 
+
+Sample Input/Output 3:
+
+Enter the total number of PIN numbers
+3
+Enter the PIN numbers
+1829
+564
+564 is an invalid PIN number
+
+ 
+
+Sample Input/Output 4:
+
+Enter the total number of PIN numbers
+-1
+-1 is an invalid number
+
